@@ -7,7 +7,7 @@ A Meteor application that detects faces in images taken from a webcam. This make
 Clone the repo
 
 ```bash
-$ npm install
+$ git clone https://github.com/stephenmurray2/meteor-face-detection.git
 $ cd meteor-face-detection
 ```
 
