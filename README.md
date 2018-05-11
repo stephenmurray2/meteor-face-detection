@@ -6,20 +6,28 @@ A Meteor application that detects faces in images taken from a webcam. This make
 
 Clone the repo
 
-`>> npm install`
-`>> cd meteor-face-detection`
+```bash
+$ npm install
+$ cd meteor-face-detection
+```
 
 Install the dependencies
 
-`>> meteor npm install`
+```bash
+$ meteor npm install
+```
 
 Install the [mdg:camera](https://github.com/meteor/mobile-packages/tree/master/packages/mdg:camera) package
 
-`>> meteor add mdg:camera`
+```bash
+$ meteor add mdg:camera
+```
 
 Start the server
 
-`>> meteor`
+```bash
+$ meteor
+```
 
 Navigate to the app at `http://localhost:3000`
 

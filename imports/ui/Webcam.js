@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { MeteorCamera } from 'meteor/mdg:camera';
-//import '../api/facial-detection.js'
  
 export default class Webcam extends Component {
     constructor(props) {
