@@ -1,0 +1,46 @@
+.nav {
+  font-family: ubuntu, helvetica, sans-serif;
+  text-align:center;
+  background:#FFFFFF;
+  padding: 20px;
+  border-bottom: solid #003A70;
+  font-size: 2em;
+}
+ 
+.content {
+  max-width: 600px;
+  margin:auto;
+  min-height: 100%;
+  background: white;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  min-height: 100%;
+  background: #cccbd7;
+}
+
+.image-container {
+  height:600px;
+  background:#dfdee7;
+  text-align: center;
+  padding: 70px 0;
+}
+ 
+img {
+    max-width: 100%;
+    max-height: 100%;
+    margin:auto;
+} 
+ 
+h1 {
+  color: #003A70;
+  background: transparent;
+  font-size: 1.5em;
+}
+
+a {
+  text-decoration:none;
+  color: #003A70;
+}
