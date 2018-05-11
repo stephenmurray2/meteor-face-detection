@@ -33,7 +33,7 @@ Navigate to the app at `http://localhost:3000`, and you're ready to start detect
 
 ## Issues
 
-This works for Chrome, but not for Firefox... I haven't tested for any other browsers.
+The mdg:camera works in Chrome, but not for Firefox... I haven't tested for any other browsers.
 
 
 
