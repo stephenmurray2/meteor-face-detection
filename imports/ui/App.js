@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import { withTracker } from 'meteor/react-meteor-data';
 
 import Webcam from './Webcam.js';
 
@@ -19,15 +18,6 @@ export default class App extends Component {
       </div>
     );
   }
-  
 }
-
-/*
-export default withTracker(() => {
-  return {
-    tasks: Tasks.find({}).fetch(),
-  };
-})(App);
-*/
 
 
