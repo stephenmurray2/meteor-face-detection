@@ -29,7 +29,7 @@ Start the server
 $ meteor
 ```
 
-Navigate to the app at `http://localhost:3000`
+Navigate to the app at `http://localhost:3000`, and you're ready to start detecting faces!
 
 ## Issues
 
